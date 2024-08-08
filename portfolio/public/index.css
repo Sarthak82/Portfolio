@@ -1,25 +1,19 @@
 html, body {
   height: 100%;
   margin: 0;
-  overflow-x: hidden; /* Prevent horizontal scroll */
 }
 
 #root {
-  background-image: url("background.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center; /* Center the background image */
-  min-height: 100vh; /* Ensure the height covers the viewport */
-  display: flex;
-  flex-direction: column;
-}
-
-body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  background-image: url("background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
-.main-content {
-  flex: 1; /* Allow main content to grow and fill the remaining space */
+.content {
+  flex: 1;
+  padding: 20px;
 }

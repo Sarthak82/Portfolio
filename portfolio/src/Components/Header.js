@@ -25,10 +25,11 @@ function Header() {
           <Link to="/"><h1>Home</h1></Link>
           <Link to='/about'><h1>About</h1></Link>
           <Link to='/education'><h1>Education</h1></Link>
-          <h1>Skill</h1>
-          <h1>Project</h1>
-          <h1>Contact</h1>
+          <Link to="/skill"><h1>Skill</h1></Link>
+          <Link to='/project'><h1>Project</h1></Link>
+          <Link to='/contact'><h1>Contact</h1></Link>
         </div>
+      
       </div>
 
 
