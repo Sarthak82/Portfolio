@@ -11,6 +11,7 @@ const Project=[
         "Interactive features",
         "Contact form"
       ],
+      visitLink:"https://myportfoolioo.netlify.app/"
     },
    
     {
@@ -24,7 +25,7 @@ const Project=[
         "Character information",
         "Responsive design"
       ],
-      visitLink:"https://main--aniinforme.netlify.app/"
+      visitLink:"https://aniinfo.netlify.app//"
     },
     
     {   
