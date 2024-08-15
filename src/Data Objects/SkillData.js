@@ -18,6 +18,11 @@ const Data =[
         name:"React"
     },
     {
+        id:13,
+        logo:"images/nodeJsLogo.png",
+        name:"NodeJs"
+    },
+    {
         id:4,
         logo:"images/htmlIcon.png",
         name:"HTML"
