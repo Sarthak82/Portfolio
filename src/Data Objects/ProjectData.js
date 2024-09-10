@@ -1,5 +1,20 @@
 const Project=[
-  
+    {
+      id:100,
+      title: "News Fetching App",
+      description: "A web application that allows users to fetch and browse news articles from various sources, with search and filter options.",
+      technologies: ['Node.js', 'Express', 'React', 'JavaScript', 'CSS', 'HTML'],
+      role: "Full-Stack Developer; developed the backend in Node.js/Express, implemented the frontend with React, and ensured smooth integration between the client and server.",
+      features: [
+        "News fetching from multiple sources using gnews.io API",
+        "Search functionality",
+        "Filter options",
+        "Deployed on Firebase"
+      ],
+
+      visitLink: "https://news-page-4ceda.web.app/"
+    },
+    
     {
       id:1,
       title:"Portfolio Website",
