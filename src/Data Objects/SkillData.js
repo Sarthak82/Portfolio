@@ -67,6 +67,11 @@ const Data =[
         logo:"images/kaliLinux1.png",
         name:"Kali Linux"
     },
+    {
+        id:13,
+        logo:"images/SentinelOne.png",
+        name:"Sentinel One"
+    }
 
 ]
 

@@ -10,7 +10,7 @@ function Body() {
           <div className='body__info'>
             <h1>I'm </h1>
             <h1><span>Sarthak Mahajan</span></h1>
-            <h1>Software Developer</h1>
+            <h1>Cyber Security Trainee</h1>
           </div>
           <div className='body__img'>
             <img src='/mine.jpg' alt='mine pic'/>
